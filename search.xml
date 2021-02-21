@@ -26,7 +26,7 @@
 			    btw.init({
 			        "id": "vip-container",
 			        "blogId": "25759-1613878427118-425",
-			        "name": "z竹林剑士",
+			        "name": "竹林剑士",
 			        "qrcode": "https://github.com/xpptaurus/xpptaurus.github.io/blob/master/uploads/wechat-qcode.jpeg",
 			        "keyword": "blog"
 			    });
