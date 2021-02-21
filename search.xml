@@ -25,9 +25,9 @@
 			    var btw = new BTWPlugin();
 			    btw.init({
 			        "id": "vip-container",
-			        "blogId": "25759-1613875794250-437",
-			        "name": "xppturus",
-			        "qrcode": "https://github.com/xpptaurus/xpptaurus.github.io/blob/master/uploads/wechat-qcode.png",
+			        "blogId": "25759-1613878427118-425",
+			        "name": "z竹林剑士",
+			        "qrcode": "https://github.com/xpptaurus/xpptaurus.github.io/blob/master/uploads/wechat-qcode.jpeg",
 			        "keyword": "blog"
 			    });
 			}
